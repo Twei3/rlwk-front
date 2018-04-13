@@ -781,6 +781,11 @@
 		color: #A5D0F2;
 	}
 
+	.coordinatorP{
+		text-shadow: -1px -1px 0px #3e3e3e;
+		color: #3e3e3e;
+	}
+
 	#menu-wrapper {
 		height: 90px;
 		background: url(images/img05.jpg) no-repeat center top;
